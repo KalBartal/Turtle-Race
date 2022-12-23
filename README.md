@@ -1,4 +1,4 @@
-# Hirst Painting
+# Turtle Race
 
 This is my coding challenge submission for day #19 of the 100 Days of Code: The Complete Python Pro Bootcamp, instructor-led training.
 
