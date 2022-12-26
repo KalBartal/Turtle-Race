@@ -11,4 +11,3 @@ As the application starts, the user can bet on a turtle of their choice to win t
 ![Turtle Race bet](https://i.imgur.com/XUBSR2J.png)
 
 ![Turtle Race](https://i.imgur.com/szYRGJv.png)
-
